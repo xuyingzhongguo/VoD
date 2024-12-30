@@ -1,2 +1,1 @@
-# VoD
-VoD: Learning Volume of Differences for Video-Based Deepfake Detection
+# VoD: Learning Volume of Differences for Video-Based Deepfake Detection
